@@ -2,7 +2,7 @@
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
-([GLaDOS][glados] 可用邀请码: `MEO8U-DRC82-GDPRN-JEK97`, 双方都有奖励天数^-^!)
+([GLaDOS][glados] 可用邀请码: `MEO8U-DRC82-GDPRN-JEK97`, 双方都有奖励天数0_0#)
 
 ## 使用说明
 
